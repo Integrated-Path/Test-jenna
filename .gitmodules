@@ -1,0 +1,4 @@
+[submodule "Integrated-Path/custom"]
+	path = Integrated-Path/custom
+	url = git@github.com:Integrated-Path/custom.git
+	branch = master
