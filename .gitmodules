@@ -2,3 +2,8 @@
 	path = Integrated-Path/custom
 	url = git@github.com:Integrated-Path/custom.git
 	branch = master
+
+[submodule "Integrated-Path/saleorder_user_percentage"]
+	path = Integrated-Path/saleorder_user_percentage
+	url = git@github.com:Integrated-Path/saleorder_user_percentage.git
+	branch = master
